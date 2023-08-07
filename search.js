@@ -35,7 +35,7 @@ else {
 // startWith
 console.log(lyrics.startsWith('tumi'));
 
-// endswith
+// endsWith
 
 const fileName = "paper.pdf";
 const otherFile = "myPhoto.png";
